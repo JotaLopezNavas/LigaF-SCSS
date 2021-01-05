@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,WAAW,CAAC;EACR,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAChB;;ADKD,AAAA,EAAE,CAAC;EACC,gBAAgB,EALF,OAAO;EAMrB,KAAK,EAPS,OAAO;CAQxB",
+    "sources": [
+        "main.scss",
+        "piso/_pisado.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

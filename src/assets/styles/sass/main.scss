@@ -1,0 +1,12 @@
+@import 'piso/pisado';
+
+
+$principal-color: #033540;
+$secondary-color: #A2F229;
+$third-color: #AEF249;
+$fourth-color: #F2E205;
+
+h1 {
+    background-color: $secondary-color;
+    color: $principal-color;
+}
